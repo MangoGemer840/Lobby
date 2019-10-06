@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MangoGemer840/Lobby
+branches:
+- master
+projects:
+  Lobby:
+    path: ""
+...
